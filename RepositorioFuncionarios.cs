@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace Sistema_Empresarial_de_Funcionários
+namespace Sistema_de_Funcionários
 {
     public class RepositorioFuncionarios
     {
